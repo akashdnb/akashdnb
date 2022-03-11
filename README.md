@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akashdnb
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning android & web development
 - 💞️ I’m looking to collaborate on github
 - 📫 akashranjandnb@gmail.com
 
