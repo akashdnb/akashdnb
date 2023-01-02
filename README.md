@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Ranjan</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<img align="right" alt="Coding" width="400" style="border-radius:20pt"
+<img align="right" alt="Coding" width="480" style="border-radius:20pt"
      src="https://user-images.githubusercontent.com/85953406/210246967-4b821047-02b2-4674-be2d-0790ae01ab05.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdnb&label=Profile%20views&color=0e75b6&style=flat" alt="akashdnb" /> </p>
